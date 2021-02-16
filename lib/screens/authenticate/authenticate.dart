@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:pointage/screens/authenticate/register.dart';
+import 'package:pointage/screens/authenticate/sign_in%20google.dart';
 import 'package:pointage/screens/authenticate/sign_in.dart';
 
 class Authenticate extends StatefulWidget {
@@ -17,7 +18,7 @@ class _AuthenticateState extends State<Authenticate> {
   @override
   Widget build(BuildContext context) {
     if (showSignIn) {
-      return SignIn(toggleView: toggleView);
+      return SignInGoogle(toggleView: toggleView);
     } else {
       return Register(toggleView: toggleView);
     }
