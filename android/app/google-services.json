@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791167761925",
+    "project_id": "pointage-5d958",
+    "storage_bucket": "pointage-5d958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791167761925:android:6316a7d8ab5e803886666c",
+        "android_client_info": {
+          "package_name": "fr.mateo.pointage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791167761925-m693d7427a4c7ul8272728mquu1m3e5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi4ub_ynGqhzk7NHk1KFUvrvQfxZRRP5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791167761925-m693d7427a4c7ul8272728mquu1m3e5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
