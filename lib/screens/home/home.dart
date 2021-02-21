@@ -16,7 +16,7 @@ class Home extends StatelessWidget {
         backgroundColor: Colors.brown[50],
         appBar: AppBar(
           title: Text('Pointage'),
-          backgroundColor: Colors.brown[400],
+          backgroundColor: Colors.indigo[300],
           elevation: 0.0,
           actions: <Widget>[
             FlatButton.icon(
@@ -37,7 +37,7 @@ class Home extends StatelessWidget {
         body: Container(
             decoration: BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('assets/coffee_bg.png'),
+                image: AssetImage('assets/fond.jpg'),
                 fit: BoxFit.cover,
               ),
             ),
